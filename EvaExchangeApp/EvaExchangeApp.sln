@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaExchangeApp", "EvaExchangeApp\EvaExchangeApp.csproj", "{29EB4803-F945-4884-963F-9AC161F1FBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29EB4803-F945-4884-963F-9AC161F1FBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EB4803-F945-4884-963F-9AC161F1FBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EB4803-F945-4884-963F-9AC161F1FBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EB4803-F945-4884-963F-9AC161F1FBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {394172BF-5874-4692-9C62-D1D56716CC49}
+	EndGlobalSection
+EndGlobal
